@@ -37,10 +37,10 @@ The following file formats are supported for upload:
 To run the app, make sure you have the following libraries installed:
 
 
-pip install streamlit
-pip install scikit-learn
-pip install python-docx
-pip install PyPDF2
+-pip install streamlit
+-pip install scikit-learn
+-pip install python-docx
+-pip install PyPDF2
 
 ---
 
