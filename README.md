@@ -43,7 +43,7 @@ pip install python-docx
 pip install PyPDF2
 
 
-### **Model Overview Section**:
+
 ```
 ## 🤖 Model Overview
 
