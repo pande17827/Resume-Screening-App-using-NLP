@@ -36,7 +36,7 @@ The following file formats are supported for upload:
 
 To run the app, make sure you have the following libraries installed:
 
-```bash
+
 pip install streamlit
 pip install scikit-learn
 pip install python-docx
@@ -45,7 +45,7 @@ pip install PyPDF2
 ---
 
 ### **Model Overview Section**:
-```markdown
+```
 ## 🤖 Model Overview
 
 The machine learning model used in this app is trained to classify resumes into different job categories. It utilizes various classification algorithms such as **SVC**, **KNeighborsClassifier**, **RandomForestClassifier**, and more. The categories include:
@@ -76,7 +76,7 @@ The machine learning model used in this app is trained to classify resumes into 
 - **Blockchain**
 - **Testing**
 
-
+---
 ## 🚀 Example Predictions
 
 Here are a few examples of resumes and the categories they may fall into:
