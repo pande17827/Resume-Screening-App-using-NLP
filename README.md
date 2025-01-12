@@ -85,6 +85,7 @@ Here are a few examples of resumes and the categories they may fall into:
 - **Personal Trainer**: A resume highlighting experience in health and fitness, certifications, and expertise in nutrition.
 - **Network Security Engineer**: A resume with skills in cybersecurity, firewalls, and vulnerability assessments.
 
+---
 
 ## 📝 Example Usage
 
@@ -94,7 +95,7 @@ You can upload a resume, and the app will predict the category. Here’s how it 
 2. **View** the extracted text.
 3. **Get** the predicted category of the resume.
 
-
+---
 ## 📜 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
